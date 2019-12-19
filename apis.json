@@ -1,0 +1,48 @@
+{
+    "name": "Sandstorm",
+    "description": "Sandstorm is the leading Chicago marketing, brand experience, UX design and usability firm with extensive technical and web development expertise.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8818-sandstorm.jpg",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sandstorm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sandstorm",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8818-sandstorm.jpg",
+            "humanURL": "http:\/\/www.sandstormdesign.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sandstorm-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sandstorm-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sandstorm-design"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SandstormDesign"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sandstormdesign.com"
+        }
+    ]
+}
